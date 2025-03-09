@@ -3,7 +3,13 @@ layout: home
 title: Chrissy's Profile
 ---
 
-Chrissy is an MBA student at NYCU, focusing on **data science** and **financial management**. With hands-on experience in data analysis and project management, and a background as a consultant at PwC, She brings a results-driven mindset, effective communication and management skills.
+<div class="profile-container">
+  <img src="assets/images/Profile%20Picture.jpg" alt="Profile Picture" class="profile-pic">
+  <div class="profile-text">
+    Chrissy is an MBA student at NYCU, focusing on **data science** and **financial management**.  
+    With hands-on experience in data analysis and project management, and a background as a consultant at PwC, she brings a results-driven mindset, effective communication and management skills.
+  </div>
+</div>
 
 🔗 [LinkedIn](https://www.linkedin.com/in/chrissywangxiv/) | [GitHub](https://github.com/chrissyxiv)  
 
