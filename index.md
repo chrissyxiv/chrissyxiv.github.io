@@ -33,6 +33,6 @@ Chrissy is an MBA student at NYCU, focusing on **data science** and **financial 
 - **Languages:** English (Fluent), Chinese (Native), French (Novice). 
 
 ## Contact
-🔗 [LinkedIn](www.linkedin.com/in/chrissywangxiv) | [GitHub](https://github.com/chrissyxiv)  
+🔗 [LinkedIn](https://www.linkedin.com/in/chrissywangxiv/) | [GitHub](https://github.com/chrissyxiv)  
 
 ---
