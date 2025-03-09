@@ -4,6 +4,7 @@ title: Chrissy's Profile
 ---
 
 Chrissy is an MBA student at NYCU, focusing on **data science** and **financial management**. With hands-on experience in data analysis and project management, and a background as a consultant at PwC, She brings a results-driven mindset, effective communication and management skills.
+🔗 [LinkedIn](https://www.linkedin.com/in/chrissywangxiv/) | [GitHub](https://github.com/chrissyxiv)  
 
 ## Education
 - **National Yang Ming Chiao Tung University (NYCU)**  
@@ -30,8 +31,5 @@ Chrissy is an MBA student at NYCU, focusing on **data science** and **financial 
 - **Technical Skills:** Power BI, Tableau, SQL, VBA, Appscript, Python, Microsoft Office.
 - **Certificates:** Project Management Professional (Certified by Project Management Institute, Nov. 2023), Qualification Exam for Securities Specialist(Certified by Securities and Futures Institute, SFI, Jun. 2024). 
 - **Languages:** English (Fluent), Chinese (Native), French (Novice). 
-
-## Contact
-🔗 [LinkedIn](https://www.linkedin.com/in/chrissywangxiv/) | [GitHub](https://github.com/chrissyxiv)  
 
 ---
