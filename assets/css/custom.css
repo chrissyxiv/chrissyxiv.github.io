@@ -1,23 +1,19 @@
-/* 全站調整基本字體大小 */
 body {
-    font-size: 16px;  /* 原本可能是 18px，這裡調小 */
+    font-size: 16px !important;  /* 強制覆蓋 */
 }
 
-/* 段落與列表的字體 */
 p, li {
-    font-size: 15px;  /* 原本可能是 18px，改成 15px 更精緻 */
-    line-height: 1.6; /* 保持良好行距 */
+    font-size: 15px !important;  /* 強制覆蓋 */
 }
 
-/* 調整標題大小，避免過大 */
 h1 {
-    font-size: 28px;  /* 原本 32px，調小一點 */
+    font-size: 28px !important;  /* 強制覆蓋 */
 }
 
 h2 {
-    font-size: 22px;  /* 原本 26px */
+    font-size: 22px !important;  /* 強制覆蓋 */
 }
 
 h3 {
-    font-size: 18px;  /* 原本 22px */
+    font-size: 18px !important;  /* 強制覆蓋 */
 }
