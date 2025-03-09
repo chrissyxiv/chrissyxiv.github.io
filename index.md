@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 我的首頁
+title: Chrissy's Profile
 ---
 
 歡迎來到我的網站！
