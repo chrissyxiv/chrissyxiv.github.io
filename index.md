@@ -4,8 +4,8 @@ title: Chrissy's Profile
 ---
 
 ## About Me
-I am an MBA student at NYCU, focusing on **data science** and **financial management**.  
-With hands-on experience in data analysis and project management, and a background as a consultant at PwC, I bring a results-driven mindset and effective communication skills.
+Chrissy is an MBA student at NYCU, focusing on **data science** and **financial management**.  
+With hands-on experience in data analysis and project management, and a background as a consultant at PwC, She brings a results-driven mindset, effective communication and management skills.
 
 ## Education
 - **National Yang Ming Chiao Tung University (NYCU)**  
