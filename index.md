@@ -4,9 +4,9 @@ title: Chrissy's Profile
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="assets/images/Profile%20Picture.jpg" alt="Profile Picture" style="width: 200px; height: 150px; object-fit: cover;">
+  <img src="assets/images/Profile%20Picture.jpg" alt="Profile Picture" style="width: 150px; height: auto;">
   <div style="flex: 1; font-size: 1.1rem; line-height: 1.6;">
-    Chrissy is an MBA student at NYCU, focusing on data science and financial management.  
+    Chrissy is an MBA student at NYCU, focusing on **data science** and **financial management**.  
     With hands-on experience in data analysis and project management, and a background as a consultant at PwC, she brings a results-driven mindset, effective communication and management skills.
   </div>
 </div>
