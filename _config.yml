@@ -2,4 +2,5 @@ title: "Chrissy's Website"
 description: "This is my GitHub Pages"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
