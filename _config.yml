@@ -1,0 +1,5 @@
+title: "Chrissy's Website"
+description: "This is my GitHub Pages"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
